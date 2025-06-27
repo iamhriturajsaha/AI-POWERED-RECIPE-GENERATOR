@@ -1,4 +1,4 @@
-# AI RECIPE GENERATOR using LANGCHAIN
+# 😋 AI-RECIPE GENERATOR
 
 This project combines the power of AI models from Hugging Face, LangChain, and OpenAI to create a seamless cooking assistant. With this tool, you can input an image of a dish, generate a detailed recipe, and listen to audio instructions for an enhanced cooking experience.
 
