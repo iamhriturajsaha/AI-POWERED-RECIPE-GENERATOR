@@ -1,6 +1,6 @@
-# 😋 AI-RECIPE GENERATOR
+# 😋 AI-Powered Recipe Generator
 
-This project combines the power of AI models from Hugging Face, LangChain, and OpenAI to create a seamless cooking assistant. With this tool, you can input an image of a dish, generate a detailed recipe, and listen to audio instructions for an enhanced cooking experience.
+This project combines the power of AI models from Hugging Face, LangChain and OpenAI to create a seamless cooking assistant. With this tool, you can input an image of a dish, generate a detailed recipe and listen to audio instructions for an enhanced cooking experience.
 
 ## Features
 - **Image-to-Text Conversion:** Uses Hugging Face's blip-image-captioning-base model to describe the dish from an image.
