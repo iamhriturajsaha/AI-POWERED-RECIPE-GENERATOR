@@ -1,4 +1,4 @@
-# 🍳 AI-Powered Recipe Generator
+# 🍳AI-Powered Recipe Generator
 
 An intelligent cooking assistant that transforms food images into detailed recipes with audio instructions. This project leverages state-of-the-art AI models from Hugging Face and OpenAI to provide a seamless cooking experience from visual recognition to step-by-step audio guidance.
 
