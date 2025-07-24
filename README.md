@@ -92,12 +92,12 @@ Customize the AI prompts to generate recipes with specific requirements like coo
 ## 🔑 API Keys & Authentication
 
 ### **Required API Keys**
-1. **OpenAI API Key**: 
+1. **OpenAI API Key** -
    - Sign up at OpenAI Platform
    - Generate API key from dashboard
    - Store securely in environment variables
 
-2. **Hugging Face Token** (Optional but recommended):
+2. **Hugging Face Token** -
    - Create account at Hugging Face
    - Generate access token for model access
 
