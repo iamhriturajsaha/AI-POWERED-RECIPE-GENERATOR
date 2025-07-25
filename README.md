@@ -74,10 +74,10 @@ Customize the AI prompts to generate recipes with specific requirements like coo
 ## 📊 Technical Specifications
 
 ### **Performance Metrics**
-- **Image Processing** - 2-4 seconds per image
-- **Recipe Generation** - 5-15 seconds depending on complexity
-- **Audio Generation** - 2-5 seconds for average recipe
-- **Total Pipeline** - 10-25 seconds end-to-end
+- **Image Processing** - 2 to 4 seconds per image
+- **Recipe Generation** - 5 to 15 seconds depending on complexity
+- **Audio Generation** - 2 to 5 seconds for average recipe
+- **Total Pipeline** - 10 to 25 seconds end-to-end
 
 ### **Model Details**
 - **Image Captioning** - Salesforce BLIP (590M parameters)
@@ -108,12 +108,11 @@ Customize the AI prompts to generate recipes with specific requirements like coo
 
 ## 🔮 Future Enhancements
 
-- [ ] **Local Model Support** - Run models locally without API dependencies
-- [ ] **Multi-language Support** - Generate recipes in multiple languages
-- [ ] **Nutritional Analysis** - Add calorie and nutrient information
-- [ ] **Dietary Restrictions** - Filter recipes based on dietary needs (vegan, gluten-free, etc.)
-- [ ] **Cooking Video Integration** - Generate cooking tutorial videos
-- [ ] **Recipe Rating System** - Community feedback and recipe improvements
-- [ ] **Mobile App** - Cross-platform mobile application
-- [ ] **Voice Commands** - Voice input for hands-free operation
-
+- **Local Model Support** - Run models locally without API dependencies
+- **Multi-language Support** - Generate recipes in multiple languages
+- **Nutritional Analysis** - Add calorie and nutrient information
+- **Dietary Restrictions** - Filter recipes based on dietary needs (vegan, gluten-free, etc.)
+- **Cooking Video Integration** - Generate cooking tutorial videos
+- **Recipe Rating System** - Community feedback and recipe improvements
+- **Mobile App** - Cross-platform mobile application
+- **Voice Commands** - Voice input for hands-free operation
